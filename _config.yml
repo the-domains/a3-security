@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.9081632
+color:
+  saturation: 0.406192
+  lightness: 0.3391508
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#EB1C24'
+    - '#383637'
+    - '#BFC0C4'
+  rhythmicContrast: 0.09425137
+name: 'A3 SECURITY '
